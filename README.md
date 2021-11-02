@@ -42,7 +42,9 @@ There are several tools available to create sound using programming, but my atte
 
 ### Advanced audio programming (2 weeks course)
 - [x] [**Patterns and songs**](Documentation/synthesis.md), keyboards and controls
-- [x] [**Alternate techniques mix**](Documentation/synthesis.md), generators and modifiers
+- [x] [**Alternate mix techniques**](Documentation/synthesis.md), generators and modifiers
+- [x] [**Live Coding sessions**](Documentation/synthesis.md), Basics and rules
+- [x] [**Personal libraries**](Documentation/synthesis.md), Samples and code droplets
 - [ ] 
 * Notes:
 
