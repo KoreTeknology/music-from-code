@@ -30,14 +30,14 @@ The aim of this project is to experiment and produce music from code. How ? Usin
 ```diff 
 LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 ```
-| **Track titles** | Type | Release | Description |
+| **Track title** | Style | Release | Description |
 | :------------------- | :---: | :---: | :--- |
 | [**KartagePak_2**](Music%20Tracks/code-test.rb) | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
-| **Expertiz-4** | `TEK` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
+| **Expertiz-4** | `EDM` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
 | **EnaRom-1** | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
-| **TeraPirat-2** | `TEK` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
-| **KlokRun-8** | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
-| **Hemet-2** | `TEK` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
+| **TeraPirat-2** | `EDM` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
+| **KlokRun-8** | `HIPHOP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
+| **Hemet-2** | `DNB` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
 
 ---
 
