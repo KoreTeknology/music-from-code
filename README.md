@@ -3,8 +3,6 @@
   <img src="https://img.shields.io/badge/License-CC BY NC SA 4.0-green.svg" /> <img src="https://img.shields.io/badge/Code-RUBY-blue.svg" /> <img src="https://img.shields.io/badge/Aktiv-=25=-red.svg" />
 </p>
 
-
-
 <p align="center">
   <b>My personal archive of codes for music production, using Sonic Pi</b><br/>
   by <u>Uriel Deveaud @2021-Kore Teknology</u> [Quadraphonics]<br/>
@@ -12,19 +10,13 @@
 </p>
 
 <p align="center">
-  <b><a href="PROJECT.md">Project</a>  |  <a href="LICENSE-CC-BY-NC-SA">License Details</a>  |  <a href="Documentation/main.md">Documentation</a>  |  <a href="Documentation/droplets.md">Code Droplets</a></b>
+  <b><a href="Documentation/main.md">Documentation</a> |  <a href="Documentation/droplets.md">Code Droplets</a> |  <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
 </p>
-
 
 ![logo](https://github.com/KoreTeknology/music-from-code/blob/main/images/header_coderuns_01.jpg)
 
-
-
 [comment]: <> (This is a comment, it will not be included)
-  
-### A Collection of Music, made with code (Sonic Pi 3x)
-
-The aim of this project is to experiment and produce music from code. How ? Using the excellent [**Sonic Pi Software**](https://sonic-pi.net/)!
+The aim of this project is to experiment and produce music from code. How ? Using the excellent [**Sonic Pi Software**](https://sonic-pi.net/)! There are several tools available to create sound using programming, but my attention was catched by the Sonic Pi, very intuitive ground, easy to teach and nice for sharing a lot of fun! So after i started producing music with it, i also started to get a lot of notes about the language, the techniques and api documentation! This is why this page exists.
 
 ```diff 
 ! By Downloading these files packages, you are accepting the terms of the License CC BY NC SA 4.0 !
@@ -64,7 +56,7 @@ LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 ## Acknowledgments
 
 * This work is dedicated to all Sonic Pi users ;) members of the excellent [**In_threads Forum**](https://in-thread.sonic-pi.net/)
-* **I do  this work during my free time, so please, be patient for the next releases** :)
+* **I do  this work during my free time, so please, be patient about the next repository update** :)
 
 ---
 
