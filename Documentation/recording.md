@@ -1,3 +1,13 @@
 # Audio Recording
 
-sampling...
+## Files formats
+
+
+## Ruby Codes
+
+
+
+## Audio Recording
+
+
+## Audio Settings
