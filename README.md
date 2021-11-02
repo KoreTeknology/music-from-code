@@ -50,7 +50,7 @@ LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 
 ## Author
 
-* **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) @Quadraphonics from 2001
+* **Uriel Deveaud** - *Initial work* - [AKTIV25](https://github.com/KoreTeknology) @KoreTeknology(1998) @Quadraphonics(2014)
 
 Please, feel free to contact me, and/or discuss further developments or ideas for those files, thanks ;)<br/>
 Collaboration projects are always welcome!</p>
