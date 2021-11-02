@@ -8,6 +8,12 @@
   <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 </p>
 
+<p align="center">
+  <b><a href="PROJECT.md">Project</a>  |  <a href="LICENSE-CC-BY-NC-SA">License Details</a>  |  <a href="Documentation/main.md">Documentation</a>  |  <a href="Documentation/droplets.md">Code Droplets</a></b>
+</p>
+
+
+
 ![logo](https://github.com/KoreTeknology/music-from-code/blob/main/images/header_coderuns_01.jpg)
 
 
