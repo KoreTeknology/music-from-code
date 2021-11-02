@@ -45,7 +45,7 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Alternate mix techniques**](Documentation/synthesis.md), generators and modifiers
 - [x] [**Live Coding sessions**](Documentation/synthesis.md), Basics and rules
 - [x] [**Personal libraries**](Documentation/synthesis.md), Samples and code droplets
-- [ ] 
+
 * Notes:
 
 ---
