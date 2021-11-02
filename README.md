@@ -33,13 +33,12 @@ There are several tools available to create sound using programming, but my atte
 - [x] Notes about Ruby code for Sonic Pi
 
 ### Basic knowledge (1 week course)
-- [x] [**File and audio recording**](Documentation/recording.md), sharing formats and sampling
+- [x] [**Understanding Files and audio recording**](Documentation/recording.md), sharing formats and exporting
 - [x] [**Understanding Notes and partitions**](Documentation/synthesis.md), keyboards and controls
 - [x] [**Creating sound from Audio Synthesis**](Documentation/synthesis.md), generators and modifiers
-- [x] [**Creating sound from Audio Samples**](Documentation/samples.md), paths and chopping
-- [x] [**Creating Sequences and Loops**](Documentation/sequences.md), bpm and patterns
-- [x] [**Applying Effects**](Documentation/effects.md) to sounds and sequences
-- [x] [**Master section**](Documentation/effects.md) Setup and configurations
+- [x] [**Creating sound from Audio Samples files**](Documentation/samples.md), chopping loop and Live Sampling
+- [x] [**Creating Sequences, patterns and Loops**](Documentation/sequences.md), bpm and patterns
+- [x] [**Enveloppe, filters and Effects**](Documentation/effects.md) Individuals and Master section
 
 ### Advanced audio programming (2 weeks course)
 - [x] [**Patterns and songs**](Documentation/synthesis.md), keyboards and controls
