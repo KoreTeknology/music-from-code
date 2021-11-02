@@ -28,9 +28,24 @@ There are several tools available to create sound using programming, but my atte
 
 ![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
+---
+
+## DOCUMENTATION & HELP
+
+- [x] Notes about Ruby code for Sonic Pi
+
+### Basic knowledge
+- [x] [**Creating sound from Audio Synthesis**](Documentation/synthesis.md), generators and modifiers
+- [x] [**Creating sound from Audio Samples**](Documentation/samples.md), paths and chopping
+- [x] [**Creating Sequences and Loops**](Documentation/sequences.md), bpm and patterns
+- [x] [**Applying Effects**](Documentation/effects.md) to sounds and sequences
+
+* Notes:
+
+---
+
 ## OVERVIEW & RELEASES
 
- 
 ```diff 
 LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 ```
@@ -45,15 +60,16 @@ LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 
 ---
 
-## DOCUMENTATION
+## READY-TO-USE CODE DROPLETS
 
-- [x] Notes about Ruby code for Sonic Pi
-
-### BASICS
-- [x] [**Creating sound from Audio Synthesis**](Documentation/synthesis.md), generators and modifiers
-- [x] [**Creating sound from Audio Samples**](Documentation/samples.md), paths and chopping
-- [x] [**Creating Sequences and Loops**](Documentation/sequences.md), bpm and patterns
-- [x] [**Applying Effects**](Documentation/effects.md) to sounds and sequences
+```diff 
+SYNTHETIZERS
+```
+| **Synth name** | Type | Release | Description |
+| :------------------- | :---: | :---: | :--- |
+| [**PPT_2200**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `SYNTH` | 30/10/2021 | Extended Prophetized Synth Mod |
+| [**RDD_1210**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `SYNTH` | 24/10/2021 | Experimental Sound Generator |
+| [**DRM_4500**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `DRUMS` | 24/10/2021 | Basic Drums Machine |
 
 ---
 
@@ -61,8 +77,6 @@ LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 
 * This work is dedicated to all Sonic Pi users ;) members of the excellent [**In_threads Forum**](https://in-thread.sonic-pi.net/)
 * **I do  this work during my free time, so please, be patient about the next repository update** :)
-
----
 
 ## Author
 
