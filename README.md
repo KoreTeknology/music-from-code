@@ -63,7 +63,7 @@ LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 ## READY-TO-USE CODE DROPLETS
 
 ```diff 
-SYNTHETIZERS
+INSTRUMENTS
 ```
 | **Synth name** | Type | Release | Description |
 | :------------------- | :---: | :---: | :--- |
@@ -71,7 +71,15 @@ SYNTHETIZERS
 | [**RDD_1210**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `SYNTH` | 24/10/2021 | Experimental Sound Generator |
 | [**DRM_4500**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `DRUMS` | 24/10/2021 | Basic Drums Machine |
 
----
+```diff 
+EFFECTS
+```
+| **Effect name** | Type | Release | Description |
+| :------------------- | :---: | :---: | :--- |
+| [**REV_100**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `FX` | 30/10/2021 | Remote Reverb |
+| [**DST_400**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `FX` | 24/10/2021 | Hard Disto |
+
+![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
 ## Acknowledgments
 
@@ -84,8 +92,6 @@ SYNTHETIZERS
 
 Please, feel free to contact me, and/or discuss further developments or ideas for those files, thanks ;)<br/>
 Collaboration projects are always welcome!</p>
-
-![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
 ## License
 
