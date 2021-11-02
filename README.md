@@ -1,6 +1,6 @@
 <h1 align="center">Music from Code</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/License-CC BY NC SA 4.0-green.svg" /> <img src="https://img.shields.io/badge/Code-RUBY-blue.svg" /> <img src="https://img.shields.io/badge/Aktiv-=25=-red.svg" />
+  <img src="https://img.shields.io/badge/Educational-Programs-orange.svg" /> <img src="https://img.shields.io/badge/License-CC BY NC SA 4.0-green.svg" /> <img src="https://img.shields.io/badge/Code-RUBY-blue.svg" /> <img src="https://img.shields.io/badge/Aktiv-=25=-red.svg" />
 </p>
 
 <p align="center">
