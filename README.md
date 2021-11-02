@@ -28,10 +28,10 @@ The aim of this project is to experiment and produce music from code. How ? Usin
 ```diff 
 LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 ```
-| Track n. | Type | Release Date | Description |
-| :------------: | :--- | :--- | :--- |
-| `KartagePak"` | EXPE | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
-| `Expertiz"` | TCNO | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
+| Track n. | Type | Release | Description |
+| :--- | :---: | :-------------: | :--- |
+| KartagePak | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
+| Expertiz | `TEK` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
 
 ---
 
