@@ -3,8 +3,6 @@
   <img src="https://img.shields.io/badge/License-CC BY NC SA 4.0-green.svg" /> <img src="https://img.shields.io/badge/Code-RUBY-blue.svg" /> <img src="https://img.shields.io/badge/Aktiv-=25=-red.svg" />
 </p>
 
-
-
 <p align="center">
   <b>My personal archive of codes for music production, using Sonic Pi</b><br/>
   by <u>Uriel Deveaud @2021-Kore Teknology</u> [Quadraphonics]<br/>
@@ -12,13 +10,10 @@
 </p>
 
 <p align="center">
-  <b><a href="PROJECT.md">Project</a>  |  <a href="LICENSE-CC-BY-NC-SA">License Details</a>  |  <a href="Documentation/main.md">Documentation</a>  |  <a href="Documentation/droplets.md">Code Droplets</a></b>
+  <b><a href="Documentation/main.md">Documentation</a> |  <a href="Documentation/droplets.md">Code Droplets</a> |  <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
 </p>
 
-
 ![logo](https://github.com/KoreTeknology/music-from-code/blob/main/images/header_coderuns_01.jpg)
-
-
 
 [comment]: <> (This is a comment, it will not be included)
   
