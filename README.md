@@ -16,7 +16,11 @@
 <img src="https://github.com/KoreTeknology/music-from-code/blob/main/Documentation/images/header_coderuns_01.jpg" width="100%">
 
 [comment]: <> (This is a comment, it will not be included)
-The aim of this project is to experiment and produce music from code. How ? Using the excellent [**Sonic Pi Software**](https://sonic-pi.net/)! There are several tools available to create sound using programming, but my attention was catched by the Sonic Pi, very intuitive ground, easy to teach and nice for sharing a lot of fun! So after i started producing music with it, i also started to get a lot of notes about the language, the techniques and api documentation! This is why this page exists.
+The aim of this project is to experiment and produce music from code. How ? 
+
+### Using the excellent and educational tool [**Sonic Pi Software**](https://sonic-pi.net/) created by Sam Aaron! 
+
+There are several tools available to create sound using programming, but my attention was catched by the Sonic Pi, very intuitive ground, easy to teach and nice for sharing a lot of fun with friends! So after i started producing music with it, i also started to get a lot of notes about the language, the techniques and api documentation! This is why this page exists.
 
 ```diff 
 ! By Downloading these files packages, you are accepting the terms of the License CC BY NC SA 4.0 !
