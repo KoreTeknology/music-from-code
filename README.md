@@ -40,12 +40,16 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Creating Sequences, patterns and Loops**](Documentation/sequences.md), bpm and patterns
 - [x] [**Enveloppe, filters and Effects**](Documentation/effects.md) Individuals and Master section
 
-### Advanced audio programming (2 weeks course)
+### Advanced music programming (2 weeks course)
 - [x] [**Patterns and songs**](Documentation/songs.md), keyboards and controls
 - [x] [**Alternate mix techniques**](Documentation/mix.md), generators and modifiers
 - [x] [**Live Coding sessions**](Documentation/live.md), Basics and rules
 - [x] [**Personal libraries**](Documentation/libraries.md), Samples and code droplets
 
+### Extreme music programming (no course)
+- [x] [**Setup and practices**](Documentation/practices.md), hardware and 
+- [x] [**Live coding challenges**](Documentation/challenges.md), generators and modifiers
+- [ ] 
 * Notes:
 
 ---
