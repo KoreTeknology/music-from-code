@@ -1,9 +1,9 @@
 <h1 align="center">Music from Code</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/License-CC BY NC SA 4.0-red.svg" /> <img src="https://img.shields.io/badge/Code-RUBY-blue.svg" /> <img src="https://img.shields.io/badge/Aktiv-=25=-yellow.svg" />
+  <img src="https://img.shields.io/badge/License-CC BY NC SA 4.0-green.svg" /> <img src="https://img.shields.io/badge/Code-RUBY-blue.svg" /> <img src="https://img.shields.io/badge/Aktiv-=25=-red.svg" />
 </p>
 
-![logo](https://github.com/KoreTeknology/music-from-code/blob/main/images/header_coderuns_01.jpg)
+
 
 <p align="center">
   <b>My personal archive of codes for music production, using Sonic Pi</b><br/>
@@ -16,7 +16,7 @@
 </p>
 
 
-
+![logo](https://github.com/KoreTeknology/music-from-code/blob/main/images/header_coderuns_01.jpg)
 
 
 
@@ -34,13 +34,30 @@ The aim of this project is to experiment and produce music from code. How ? Usin
 
 ## OVERVIEW & RELEASES
 
+ 
 ```diff 
 LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 ```
-| Track n. | Type | Release | Description |
-| :--- | :---: | :-------------: | :--- |
-| KartagePak | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
-| Expertiz | `TEK` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
+| **Track titles** | Type | Release | Description |
+| :------------------- | :---: | :---: | :--- |
+| [**KartagePak_2**](href="Documentation/droplets.md) | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
+| **Expertiz-4** | `TEK` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
+| **EnaRom-1** | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
+| **Terapi Pirat-2** | `TEK` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
+| **Klok Run-8** | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
+| **Hemet-2** | `TEK` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
+
+---
+
+## DOCUMENTATION
+
+- [x] Notes about Ruby code for Sonic Pi
+
+### BASICS
+- [x] **Creating sound from Audio Synthesis**, generators and modifiers
+- [x] **Creating sound from Audio Samples**, paths and chopping
+- [x] **Creating Sequences and Loops**, bpm and patterns
+- [x] **Applying Effects** to sounds and sequences
 
 ---
 
