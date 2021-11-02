@@ -54,10 +54,10 @@ LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 - [x] Notes about Ruby code for Sonic Pi
 
 ### BASICS
-- [x] **Creating sound from Audio Synthesis**, generators and modifiers
-- [x] **Creating sound from Audio Samples**, paths and chopping
-- [x] **Creating Sequences and Loops**, bpm and patterns
-- [x] **Applying Effects** to sounds and sequences
+- [x] [**Creating sound from Audio Synthesis**](Documentation/synthesis.md), generators and modifiers
+- [x] [**Creating sound from Audio Samples**](Documentation/samples.md), paths and chopping
+- [x] [**Creating Sequences and Loops**](Documentation/sequences.md), bpm and patterns
+- [x] [**Applying Effects**](Documentation/effects.md) to sounds and sequences
 
 ---
 
