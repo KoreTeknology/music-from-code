@@ -16,7 +16,7 @@
 <img src="https://github.com/KoreTeknology/music-from-code/blob/main/Documentation/images/header_coderuns_01.jpg" width="100%">
 
 [comment]: <> (This is a comment, it will not be included)
-The aim of this project is to experiment and produce music from code. How ? **Using the excellent and educational tool [Sonic Pi Software](https://sonic-pi.net/) created by Sam Aaron!** This is the last oportunity to enter the world of live-coding and music production at the same time. Also, this tool was made with open hardware in mind, as it is intended to run on Raspberry Pi boards (i didn´t try yet).
+The aim of this project is to learn, experiment and produce music from code. Simple as writing lines of commands and definitions for producing sounds and sequences? How ? **Using the excellent and educational tool [Sonic Pi Software](https://sonic-pi.net/) created by Sam Aaron!** This is the last oportunity to enter the world of live-coding and music production at the same time. Also, this tool was made with open hardware in mind, as it is intended to run on Raspberry Pi boards (i didn´t try yet).
 
 There are several tools available to create sound using programming, but my attention was catched by the Sonic Pi, very intuitive ground, easy to teach and nice for sharing a lot of fun with friends! So after i started producing music with it, i also started to get a lot of notes about the language, the techniques and api documentation! This is why this page exists.
 
@@ -24,15 +24,13 @@ There are several tools available to create sound using programming, but my atte
 ! By Downloading these files packages, you are accepting the terms of the License CC BY NC SA 4.0 !
 ```
 
-![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
-
 ---
 
 ## DOCUMENTATION & HELP
 
 - [x] [**Notes about Sonic Pi**](Documentation/about.md), codes source and softwares
 
-### Basic knowledge (1 week course)
+### Basic knowledge
 - [x] [**Understanding Files and audio recording**](Documentation/recording.md), sharing formats and exporting
 - [x] [**Understanding Notes and partitions**](Documentation/notes.md), keyboards and controls
 - [x] [**Creating sound from Audio Synthesis**](Documentation/synthesis.md), generators and modifiers
@@ -40,13 +38,13 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Creating Sequences, patterns and Loops**](Documentation/sequences.md), bpm and patterns
 - [x] [**Enveloppe, filters and Effects**](Documentation/effects.md) Individuals and Master section
 
-### Advanced music programming (2 weeks course)
+### Advanced music programming
 - [x] [**Patterns and songs**](Documentation/songs.md), keyboards and controls
 - [x] [**Alternate mix techniques**](Documentation/mix.md), generators and modifiers
 - [x] [**Live Coding sessions**](Documentation/live.md), Basics and rules
 - [x] [**Personal libraries**](Documentation/libraries.md), Samples and code droplets
 
-### Hardcore music programming (no course)
+### Hardcore music programming
 - [x] [**Setup and practices**](Documentation/practices.md), hardware and 
 - [x] [**Live coding challenges**](Documentation/challenges.md), generators and modifiers
 
@@ -62,12 +60,12 @@ LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 ```
 | **Track title** | Style | Release | Description |
 | :------------------- | :---: | :---: | :--- |
-| [**KartagePak_2**](Music%20Tracks/In%20Progress/KartagePak_2.md) | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
-| **Expertiz-4** | `EDM` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
-| **EnaRom-1** | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its  |
-| **TeraPirat-2** | `EDM` | 24/10/2021 | A sound wave historical  |
-| **KlokRun-8** | `HIPHOP` | 30/10/2021 | First Live coding session, this track is |
-| **Hemet-2** | `DNB` | 24/10/2021 | A sound wave historical reconstruction |
+| [**CK-1-211102**](Music%20Tracks/In%20Progress/KartagePak_2.md) | `EXP` | 30/10/2021 | First Live coding session, particular ambiance and living sound forms |
+| **ST-4211101** | `EDM` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
+| **ZT-1211101** | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its  |
+| **CD-1211101** | `EDM` | 24/10/2021 | A sound wave historical  |
+| **KR-1211102** | `HIPHOP` | 30/10/2021 | First Live coding session, this track is |
+| **HH-2211103** | `DNB` | 24/10/2021 | A sound wave historical reconstruction |
 
 ---
 
@@ -90,7 +88,7 @@ EFFECTS
 | [**REV_100**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `FX` | 30/10/2021 | Remote Reverb |
 | [**DST_400**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `FX` | 24/10/2021 | Hard Disto |
 
-![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
+---
 
 ## ACKNOWLEDGEMENTS
 
