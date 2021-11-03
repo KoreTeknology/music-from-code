@@ -35,7 +35,7 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Adding Enveloppe, filters and Effects**](Documentation/effects.md) Individuals and Master section
 
 ### Advanced music programming
-- [x] [**Mathematics and Programming**](Documentation/songs.md), Use of math principles
+- [x] [**Mathematics and Programming**](Documentation/math.md), Use of math principles
 - [x] [**Writing Music Patterns and songs**](Documentation/songs.md), keyboards and controls
 - [x] [**Mixing sounds and buffers**](Documentation/mix.md), generators and modifiers
 - [x] [**Live Coding sessions**](Documentation/live.md), Basics and rules
