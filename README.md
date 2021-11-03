@@ -32,11 +32,11 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Creating sound from Audio Synthesis**](Documentation/synthesis.md), generators and modifiers
 - [x] [**Creating sound from Audio Samples files**](Documentation/samples.md), chopping loop and Live Sampling
 - [x] [**Creating Sequences, patterns and Loops**](Documentation/sequences.md), bpm and patterns
-- [x] [**Enveloppe, filters and Effects**](Documentation/effects.md) Individuals and Master section
+- [x] [**Adding Enveloppe, filters and Effects**](Documentation/effects.md) Individuals and Master section
 
 ### Advanced music programming
-- [x] [**Patterns and songs**](Documentation/songs.md), keyboards and controls
-- [x] [**Alternate mix techniques**](Documentation/mix.md), generators and modifiers
+- [x] [**Writing Music Patterns and songs**](Documentation/songs.md), keyboards and controls
+- [x] [**Mixing sounds and buffers **](Documentation/mix.md), generators and modifiers
 - [x] [**Live Coding sessions**](Documentation/live.md), Basics and rules
 - [x] [**Personal libraries**](Documentation/libraries.md), Samples and code droplets
 
@@ -45,7 +45,7 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Live coding challenges**](Documentation/challenges.md), generators and modifiers
 
 ### References
-- [x] [**Sound generators and Envelope**](Documentation/practices.md), hardware and 
+- [x] [**Sound generators and Envelope**](Documentation/droplets.md), hardware and 
 - [x] [**Filters and Effects**](Documentation/challenges.md), generators and modifiers
 - [x] [**Samples Packs**](Documentation/challenges.md), generators and modifiers
 
