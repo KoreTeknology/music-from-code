@@ -43,3 +43,26 @@ define :mySynth_PPT220 do
   play notes, amp: synth_volume
 end
 ```
+
+
+---
+
+### Basic sound play: simple note
+```ruby
+play 60
+```
+
+### Basic sound play: simple note with features
+```ruby
+play 60, amp: 0.8, rate: 0.5
+```
+
+### Basic sound play: simple note with features and random values
+```ruby
+play 60, amp: rrand(0.5, 1), rate: rrand(0.4, 2)
+```
+
+### Basis sound play: simple note with optional values
+```ruby
+play 60, amp: (0.5, 1).choose, rate:(0.4, 2).choose
+```
