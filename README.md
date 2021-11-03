@@ -46,7 +46,7 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Live Coding sessions**](Documentation/live.md), Basics and rules
 - [x] [**Personal libraries**](Documentation/libraries.md), Samples and code droplets
 
-### Extreme music programming (no course)
+### Hardcore music programming (no course)
 - [x] [**Setup and practices**](Documentation/practices.md), hardware and 
 - [x] [**Live coding challenges**](Documentation/challenges.md), generators and modifiers
 
@@ -92,7 +92,7 @@ EFFECTS
 
 ![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
-## Acknowledgments
+## ACKNOWLEDGEMENTS
 
 * This work is dedicated to all Sonic Pi users ;) members of the excellent [**In_threads Forum**](https://in-thread.sonic-pi.net/)
 * **I do  this work during my free time, so please, be patient about the next repository update** :)
