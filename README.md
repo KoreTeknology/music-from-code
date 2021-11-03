@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b><a href="Documentation/main.md">Documentation</a> |  <a href="Documentation/droplets.md">Instruments Code Droplets</a> |  <a href="Documentation/droplets.md">Effects Code Droplets</a> |  <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
+  <b><a href="Documentation/main.md">Documentation</a> |  <a href="Documentation/droplets.md">Sound generators References</a> |  <a href="Documentation/droplets.md">Effects References</a> |  <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
 </p>
 
 <img src="https://github.com/KoreTeknology/music-from-code/blob/main/Documentation/images/header_coderuns_01.jpg" width="100%">
@@ -58,7 +58,7 @@ There are several tools available to create sound using programming, but my atte
 ```diff 
 LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 ```
-| **Track title** | Style | Release | Description |
+| **Track title** &nbsp; &nbsp; | Style | Release | Description |
 | :------------------- | :---: | :---: | :--- |
 | [**CK-1-211102**](Music%20Tracks/In%20Progress/KartagePak_2.md) | `EXP` | 30/10/2021 | First Live coding session, particular ambiance and living sound forms |
 | **ST-4211101** | `EDM` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
