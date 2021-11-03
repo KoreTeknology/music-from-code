@@ -48,6 +48,10 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Setup and practices**](Documentation/practices.md), hardware and 
 - [x] [**Live coding challenges**](Documentation/challenges.md), generators and modifiers
 
+### References
+- [x] [**Sound generators and Envelope**](Documentation/practices.md), hardware and 
+- [x] [**Filters and Effects**](Documentation/challenges.md), generators and modifiers
+- [x] [**Samples Packs**](Documentation/challenges.md), generators and modifiers
 
 * Notes:
 
