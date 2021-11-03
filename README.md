@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>My personal archive of codes and educational contents for music production, using Sonic Pi</b><br/>
+  <b>My personal archive of codes and educational contents for music production, using <a href="https://github.com/sonic-pi-net/sonic-pi">Sonic Pi</a></b><br/>
   by <u>Uriel Deveaud @2021-Kore Teknology</u> [Quadraphonics]<br/>
   <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 </p>
