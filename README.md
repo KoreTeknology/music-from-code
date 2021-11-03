@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b><a href="Documentation/main.md">Documentation</a> |  <a href="Documentation/droplets.md">Code Droplets</a> |  <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
+  <b><a href="Documentation/main.md">Documentation</a> |  <a href="Documentation/droplets.md">Instruments Code Droplets</a> |  <a href="Documentation/droplets.md">Effects Code Droplets</a> |  <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
 </p>
 
 <img src="https://github.com/KoreTeknology/music-from-code/blob/main/Documentation/images/header_coderuns_01.jpg" width="100%">
