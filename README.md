@@ -67,7 +67,7 @@ LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 | **EnaRom-1** | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
 | **TeraPirat-2** | `EDM` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
 | **KlokRun-8** | `HIPHOP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
-| **Hemet-2** | `DNB` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
+| **Hemet-2** | `DNB` | 24/10/2021 | A sound wave historical reconstruction |
 
 ---
 
