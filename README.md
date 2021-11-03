@@ -30,7 +30,7 @@ There are several tools available to create sound using programming, but my atte
 
 ## DOCUMENTATION & HELP
 
-- [x] Notes about Ruby code for Sonic Pi
+- [x] [**Notes about Sonic Pi**](Documentation/about.md), codes source and softwares
 
 ### Basic knowledge (1 week course)
 - [x] [**Understanding Files and audio recording**](Documentation/recording.md), sharing formats and exporting
