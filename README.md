@@ -49,7 +49,8 @@ There are several tools available to create sound using programming, but my atte
 ### Extreme music programming (no course)
 - [x] [**Setup and practices**](Documentation/practices.md), hardware and 
 - [x] [**Live coding challenges**](Documentation/challenges.md), generators and modifiers
-- [ ] 
+
+
 * Notes:
 
 ---
