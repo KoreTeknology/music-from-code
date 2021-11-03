@@ -64,9 +64,9 @@ LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 | :------------------- | :---: | :---: | :--- |
 | [**KartagePak_2**](Music%20Tracks/In%20Progress/KartagePak_2.md) | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
 | **Expertiz-4** | `EDM` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
-| **EnaRom-1** | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
-| **TeraPirat-2** | `EDM` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
-| **KlokRun-8** | `HIPHOP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its particular ambiance and living sound forms |
+| **EnaRom-1** | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its  |
+| **TeraPirat-2** | `EDM` | 24/10/2021 | A sound wave historical  |
+| **KlokRun-8** | `HIPHOP` | 30/10/2021 | First Live coding session, this track is |
 | **Hemet-2** | `DNB` | 24/10/2021 | A sound wave historical reconstruction |
 
 ---
