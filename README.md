@@ -26,7 +26,7 @@ There are several tools available to create sound using programming, but my atte
 
 ---
 
-## DOCUMENTATION & HELP
+## DOCUMENTATION & EDUCATIONAL CONTENTS
 
 - [x] [**Notes about Sonic Pi**](Documentation/about.md), codes source and softwares
 
@@ -53,7 +53,7 @@ There are several tools available to create sound using programming, but my atte
 
 ---
 
-## OVERVIEW & RELEASES
+## PREVIEWS & MUSIC RELEASES
 
 ```diff 
 LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
@@ -69,7 +69,7 @@ LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 
 ---
 
-## READY-TO-USE CODE DROPLETS
+## READY-TO-USE CUSTOM CODE DROPLETS
 
 ```diff 
 INSTRUMENTS
