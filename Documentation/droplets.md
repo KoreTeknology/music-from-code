@@ -1,23 +1,45 @@
-# Droplets
+# Synth Instruments References
 
-This page presents a collection of droplets, ready to use in production with its options and details. It is intended to be used for beginners who are looking for pieces of code that can help understanding the concepts and the logic of the software and Ruby code.
+This page presents the included synthetizers...
+
+
+---
+
+## :Beep ##
+
+A typical generator to be used to create explosive and electronic sounds<br>
+`note`    *hardware and* <br>
+`amp` generators and modifiers <br>
+`pan` hardware and  <br>
+`attack` generators and modifiers <br>
+`decay` generators and modifiers <br>
+`sustain` hardware and  <br>
+`Release` generators and modifiers <br>
+
+
+---
 
 ### Basic sound play: simple note
 ```ruby
 play 60
 ```
 
-### Basic sound play: simple note with features
-```ruby
-play 60, amp: 0.8, rate: 0.5
-```
+### References
+- [x] [**Sound generators and Envelope**](Documentation/droplets.md), hardware and 
+- [x] [**Filters and Effects**](Documentation/challenges.md), generators and modifiers
+- [x] [**Samples Packs**](Documentation/challenges.md), generators and modifiers
 
-### Basic sound play: simple note with features and random values
-```ruby
-play 60, amp: rrand(0.5, 1), rate: rrand(0.4, 2)
-```
+* Notes:
 
-### Basis sound play: simple note with optional values
-```ruby
-play 60, amp: (0.5, 1).choose, rate:(0.4, 2).choose
+---
+
+## PREVIEWS & MUSIC RELEASES
+
+```diff 
+LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
 ```
+| **Track title** &nbsp; &nbsp; | Style | Release | Description |
+| :------------------- | :---: | :---: | :--- |
+| [**CK-1-211102**](Music%20Tracks/In%20Progress/KartagePak_2.md) | `EXP` | 30/10/2021 | First Live coding session, particular ambiance and living sound forms |
+| **ST-4211101** | `EDM` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
+| **ZT-1211101** | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its  |
