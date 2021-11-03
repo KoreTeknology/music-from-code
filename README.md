@@ -9,14 +9,10 @@
   <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 </p>
 
-<p align="center">
-  <b><a href="Documentation/main.md">Documentation</a> |  <a href="Documentation/droplets.md">Sound generators References</a> |  <a href="Documentation/droplets.md">Effects References</a> |  <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
-</p>
-
 <img src="https://github.com/KoreTeknology/music-from-code/blob/main/Documentation/images/header_coderuns_01.jpg" width="100%">
 
 [comment]: <> (This is a comment, it will not be included)
-The aim of this project is to learn, experiment and produce music from code. Simple as writing lines of commands and definitions for producing sounds and sequences? How ? **Using the excellent and educational tool [Sonic Pi Software](https://sonic-pi.net/) created by Sam Aaron!** This is the last oportunity to enter the world of live-coding and music production at the same time. Also, this tool was made with open hardware in mind, as it is intended to run on Raspberry Pi boards (i didn´t try yet).
+The aim of this project is to learn, experiment and produce music from code. Simple as writing lines of commands and definitions for producing sounds and sequences? How ? **Using the excellent and educational tool [Sonic Pi Software](https://sonic-pi.net/) created by Sam Aaron!** This is a good oportunity to enter the world of live-coding and music production at the same time. Also, this tool was made with "Open Hardware" compatibility in mind, as it is intended to run on Raspberry Pi boards (i didn´t try yet).
 
 There are several tools available to create sound using programming, but my attention was catched by the Sonic Pi, very intuitive ground, easy to teach and nice for sharing a lot of fun with friends! So after i started producing music with it, i also started to get a lot of notes about the language, the techniques and api documentation! This is why this page exists.
 
