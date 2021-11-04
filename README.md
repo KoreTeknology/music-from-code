@@ -56,21 +56,31 @@ There are several tools available to create sound using programming, but my atte
 
 ## CODE PREVIEWS & MUSIC RELEASES
 
-### GlassTone (LP)
+This section presents various personal audio projects, including full songs and experimentations
+
+
+## GlassTone (LP)
+This is my first album, composed only from code blocks. Started in 2020, this LP includes several new music styles to my music production journey.
+| **reference** &nbsp; &nbsp; | Type | Description |
+| :------------------- | :---: | :--- |
+| GlassTone | `LP` | First Live coding session, particular ambiance and living sound forms |
 - [x] [**Song #1: CKT-256**](Documentation/droplets.md) | EDM | a simple elecronic track at 140bpm
 - [x] [**Song #2: ERD-317**](Documentation/droplets.md) | EXP | Strange ambiance and crazy drum beats at 100bpm
 - [x] [**Song #3: GGF-103**](Documentation/droplets.md) | EDM | 11/21 | Complexe electronic sounds at 120bpm
 
-| **Track title** &nbsp; &nbsp; | Style | Description |
+## RollStep (LP)
+This is my second album, composed only from code blocks. Started in 2020, this LP includes several new music styles to my music production journey.
+| **reference** &nbsp; &nbsp; | Type | Description |
 | :------------------- | :---: | :--- |
-| [**CK-1-211102**](Music%20Tracks/In%20Progress/KartagePak_2.md) | `EXP` | First Live coding session, particular ambiance and living sound forms |
-| **ST-4211101** | `EDM` | A sound wave historical reconstruction, this track is made with fever in mind :) |
-| **ZT-1211101** | `EXP` | First Live coding session, this track is "unreleased" for its  |
+| GlassTone | `LP` | First Live coding session, particular ambiance and living sound forms |
+- [x] [**Song #1: BAD-884**](Documentation/droplets.md) | EDM | a simple elecronic track at 140bpm
+- [x] [**Song #2: ERR-404**](Documentation/droplets.md) | EXP | Strange ambiance and crazy drum beats at 100bpm
+
+
 
 ```diff 
 * All LP/EPs are part of my music production from 2021, LABEL: KTS, AUTHOR: AKTIV.25
 ```
-
 ---
 
 ## READY-TO-USE CUSTOM CODE DROPLETS
