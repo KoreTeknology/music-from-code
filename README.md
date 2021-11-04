@@ -58,15 +58,8 @@ There are several tools available to create sound using programming, but my atte
 
 This section presents various personal audio projects, including full songs and experimentations
 
+- [x] **GlassTone LP** | [**Details**](Production/LP_GlassTone.md) | [**Code**](Production/LP_GlassTone.md) | [**Audio**](Production/LP_GlassTone.md) (Genre: EDM)
 
-## GlassTone (LP)
-This is my first album, composed only from code blocks. Started in 2020, this LP includes several new music styles to my music production journey.
-| **reference** &nbsp; &nbsp; | Type | Description |
-| :------------------- | :---: | :--- |
-| GlassTone | `LP` | First Live coding session, particular ambiance and living sound forms |
-- [x] [**Song #1: CKT-256**](Documentation/droplets.md) | EDM | a simple elecronic track at 140bpm
-- [x] [**Song #2: ERD-317**](Documentation/droplets.md) | EXP | Strange ambiance and crazy drum beats at 100bpm
-- [x] [**Song #3: GGF-103**](Documentation/droplets.md) | EDM | 11/21 | Complexe electronic sounds at 120bpm
 
 ## RollStep (LP)
 This is my second album, composed only from code blocks. Started in 2020, this LP includes several new music styles to my music production journey.
