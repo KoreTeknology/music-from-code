@@ -9,7 +9,7 @@
   <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 </p>
 
-<img src="https://github.com/KoreTeknology/music-from-code/blob/main/Documentation/images/header_home.jpg" width="100%">
+<img src="https://github.com/KoreTeknology/music-from-code/blob/main/Documentation/images/header_home_git_SPI.jpg" width="100%">
 
 [comment]: <> (This is a comment, it will not be included)
 The aim of this project is to learn, experiment and produce music from code. Simple as writing lines of commands and definitions for producing sounds and sequences? How ? **Using the excellent and educational tool [Sonic Pi Software](https://sonic-pi.net/) created by Sam Aaron!** This is a good oportunity to enter the world of live-coding and music production at the same time. Also, this tool was made with "Open Hardware" compatibility in mind, as it is intended to run on Raspberry Pi boards (i didn´t try yet).
