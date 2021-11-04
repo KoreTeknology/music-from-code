@@ -1,4 +1,4 @@
-# :Beep 
+# :beep 
 
 A typical generator to be used to create explosive and electronic sounds
 
