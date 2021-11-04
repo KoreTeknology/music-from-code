@@ -56,20 +56,10 @@ There are several tools available to create sound using programming, but my atte
 
 ## CODE PREVIEWS & MUSIC RELEASES
 
-This section presents various personal audio projects, including full songs and experimentations
+This section presents various personal audio projects, including full songs and experimentations. Most production are electronic music oriented ;) but there is exceptions where my mood was different. i am not closed into a registrered style or genre but i always try to go where the moment is calling me.
 
-- [x] **GlassTone LP** | [**Details**](Production/LP_GlassTone.md) | [**Code**](Production/LP_GlassTone.md) | [**Audio**](Production/LP_GlassTone.md) (Genre: EDM)
-
-
-## RollStep (LP)
-This is my second album, composed only from code blocks. Started in 2020, this LP includes several new music styles to my music production journey.
-| **reference** &nbsp; &nbsp; | Type | Description |
-| :------------------- | :---: | :--- |
-| GlassTone | `LP` | First Live coding session, particular ambiance and living sound forms |
-- [x] [**Song #1: BAD-884**](Documentation/droplets.md) | EDM | a simple elecronic track at 140bpm
-- [x] [**Song #2: ERR-404**](Documentation/droplets.md) | EXP | Strange ambiance and crazy drum beats at 100bpm
-
-
+- [x] **GlassTone LP** | [**Details**](Production/LP_GlassTone.md) | [**Code**](Production/LP_GlassTone.md) | [**Audio**](Production/LP_GlassTone.md) (Genre: EDM, Year: 2020, Artist: Aktiv25, Label: KoreTeknology)
+- [x] **RollStep LP** | [**Details**](Production/LP_RollStep.md) | [**Code**](Production/LP_RollStep.md) | [**Audio**](Production/LP_RollStep.md) (Genre: EDM, Year: 2021, Artist: Aktiv25, Label: KoreTeknology)
 
 ```diff 
 * All LP/EPs are part of my music production from 2021, LABEL: KTS, AUTHOR: AKTIV.25
