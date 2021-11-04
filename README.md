@@ -54,19 +54,22 @@ There are several tools available to create sound using programming, but my atte
 
 ---
 
-## PREVIEWS & MUSIC RELEASES
+## CODE PREVIEWS & MUSIC RELEASES
+
+### GlassTone (LP)
+- [x] [**Song #1: CKT-256**](Documentation/droplets.md) | EDM | a simple elecronic track at 140bpm
+- [x] [**Song #2: ERD-317**](Documentation/droplets.md) | EXP | Strange ambiance and crazy drum beats at 100bpm
+- [x] [**Song #3: GGF-103**](Documentation/droplets.md) | EDM | 11/21 | Complexe electronic sounds at 120bpm
+
+| **Track title** &nbsp; &nbsp; | Style | Description |
+| :------------------- | :---: | :--- |
+| [**CK-1-211102**](Music%20Tracks/In%20Progress/KartagePak_2.md) | `EXP` | First Live coding session, particular ambiance and living sound forms |
+| **ST-4211101** | `EDM` | A sound wave historical reconstruction, this track is made with fever in mind :) |
+| **ZT-1211101** | `EXP` | First Live coding session, this track is "unreleased" for its  |
 
 ```diff 
-LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
+* All LP/EPs are part of my music production from 2021, LABEL: KTS, AUTHOR: AKTIV.25
 ```
-| **Track title** &nbsp; &nbsp; | Style | Release | Description |
-| :------------------- | :---: | :---: | :--- |
-| [**CK-1-211102**](Music%20Tracks/In%20Progress/KartagePak_2.md) | `EXP` | 30/10/2021 | First Live coding session, particular ambiance and living sound forms |
-| **ST-4211101** | `EDM` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
-| **ZT-1211101** | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its  |
-| **CD-1211101** | `EDM` | 24/10/2021 | A sound wave historical  |
-| **KR-1211102** | `HIPHOP` | 30/10/2021 | First Live coding session, this track is |
-| **HH-2211103** | `DNB` | 24/10/2021 | A sound wave historical reconstruction |
 
 ---
 
