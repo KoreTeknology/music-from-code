@@ -96,7 +96,7 @@ EFFECTS
 
 ## ACKNOWLEDGEMENTS
 
-* This work is dedicated to all Sonic Pi users ;) members of the excellent [**In_threads Forum**](https://in-thread.sonic-pi.net/)
+* This work is dedicated to all Sonic Pi users and Live-Coderz groups ;) members of the excellent [**In_threads Forum**](https://in-thread.sonic-pi.net/)
 * **I do  this work during my free time, so please, be patient about the next repository update** :)
 
 ## Author
