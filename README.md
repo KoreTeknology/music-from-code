@@ -87,6 +87,13 @@ EFFECTS
 
 ---
 
+## CUSTOM SYNTHETIZERS MADE WITH SUPERCOLLIDER
+
+```diff 
+None at the moment (cant export!)
+```
+---
+
 ## ACKNOWLEDGEMENTS
 
 * This work is dedicated to all Sonic Pi users and Live-Coderz groups ;) members of the excellent [**In_threads Forum**](https://in-thread.sonic-pi.net/)
