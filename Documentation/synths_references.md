@@ -2,12 +2,17 @@
 
 This page presents the included synthetizers...
 
-### Common parameters to ALL Synthetizers
+## Common parameters to ALL Synthetizers
 
 | **Params** &nbsp; &nbsp; | Values | Default | Description |
 | :------------------- | :---: | :---: | :--- |
 | `amp` | 0-1 | | used to set the volume/gain |
 | `pan` | -1-1 | | used to set the panoramic |
+
+## Enveloppe parameters to ALL Synthetizers
+
+| **Params** &nbsp; &nbsp; | Values | Default | Description |
+| :------------------- | :---: | :---: | :--- |
 | `attack` | -1-1 | | used to set the enveloppe ADSR in time |
 | `attack_level` | -1-1 | | used to set the enveloppe ADSR in Gain |
 | `decay` | -1-1 | | used to set the enveloppe ADSR in Time |
