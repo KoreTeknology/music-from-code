@@ -46,28 +46,24 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Live coding challenges**](Documentation/challenges.md), generators and modifiers
 
 ### References
-- [x] [**Sound generators and Envelope**](Documentation/droplets.md), hardware and 
-- [x] [**Filters and Effects**](Documentation/challenges.md), generators and modifiers
+- [x] [**Sound generators and Envelope**](Documentation/synths_references.md), All generators with its details
+- [x] [**Filters and Effects**](Documentation/effects_references.md), All effects that you can apply to sound
 - [x] [**Samples Packs**](Documentation/challenges.md), generators and modifiers
 
 * Notes:
 
 ---
 
-## PREVIEWS & MUSIC RELEASES
+## CODE PREVIEWS & MUSIC RELEASES
+
+This section presents various personal audio projects, including full songs and experimentations. Most production are electronic music oriented ;) but there is exceptions where my mood was different. i am not closed into a registrered style or genre but i always try to go where the moment is calling me.
+
+- [x] **GlassTone LP** | [**Details**](Production/LP_GlassTone.md) | [**Code**](Production/LP_GlassTone.md) | [**Audio**](Production/LP_GlassTone.md) (Genre: EDM, Year: 2020, Artist: Aktiv25, Label: KoreTeknology)
+- [x] **RollStep LP** | [**Details**](Production/LP_RollStep.md) | [**Code**](Production/LP_RollStep.md) | [**Audio**](Production/LP_RollStep.md) (Genre: EDM, Year: 2021, Artist: Aktiv25, Label: KoreTeknology)
 
 ```diff 
-LP TITLE: CK-231445, LABEL: KTS, AUTHOR: AKTIV.25
+* All LP/EPs are part of my music production from 2021, LABEL: KTS, AUTHOR: AKTIV.25
 ```
-| **Track title** &nbsp; &nbsp; | Style | Release | Description |
-| :------------------- | :---: | :---: | :--- |
-| [**CK-1-211102**](Music%20Tracks/In%20Progress/KartagePak_2.md) | `EXP` | 30/10/2021 | First Live coding session, particular ambiance and living sound forms |
-| **ST-4211101** | `EDM` | 24/10/2021 | A sound wave historical reconstruction, this track is made with fever in mind :) |
-| **ZT-1211101** | `EXP` | 30/10/2021 | First Live coding session, this track is "unreleased" for its  |
-| **CD-1211101** | `EDM` | 24/10/2021 | A sound wave historical  |
-| **KR-1211102** | `HIPHOP` | 30/10/2021 | First Live coding session, this track is |
-| **HH-2211103** | `DNB` | 24/10/2021 | A sound wave historical reconstruction |
-
 ---
 
 ## READY-TO-USE CUSTOM CODE DROPLETS
@@ -91,9 +87,16 @@ EFFECTS
 
 ---
 
+## CUSTOM SYNTHETIZERS MADE WITH SUPERCOLLIDER
+
+```diff 
+None at the moment (cant export!)
+```
+---
+
 ## ACKNOWLEDGEMENTS
 
-* This work is dedicated to all Sonic Pi users ;) members of the excellent [**In_threads Forum**](https://in-thread.sonic-pi.net/)
+* This work is dedicated to all Sonic Pi users and Live-Coderz groups ;) members of the excellent [**In_threads Forum**](https://in-thread.sonic-pi.net/)
 * **I do  this work during my free time, so please, be patient about the next repository update** :)
 
 ## Author
