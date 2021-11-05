@@ -1,4 +1,4 @@
-< [Back to Homepage](..)
+< [Back to Homepage](../../..)
 
 # Notes about Sonic Pi
 
