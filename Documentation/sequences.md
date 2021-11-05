@@ -1,3 +1,5 @@
+< [Back to Homepage](../../..)
+
 # Sequences
 
 
@@ -89,3 +91,5 @@ with_fx :echo,decay: 0.3, phase: 1 do
 end
 
 ```
+
+< [Back to Homepage](../../..)
