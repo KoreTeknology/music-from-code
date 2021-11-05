@@ -1,3 +1,5 @@
+< [Back to Homepage](../../..)
+
 # Audio Recording
 
 Using **sonic Pi**, we will have to use *audio files*, we will record and play those files in a way to share or publish our creations. Also, we will make a difference between the *working files* and the *audio master file*. Don´t worry, those principles are very easy to understand and the concept of recording is pretty **conventional**. What ever you are in a recording studio, or in your bedroom, you are using your *computer interface or audio sound card* the same way. The sound that comes in and comes out of your computer are recorded as a digitilized signals to be played by audio samplers or any audio players.
@@ -14,3 +16,6 @@ We have to distinguish 2 main types of files during our process of **creating mu
 
 
 ## Audio Settings
+
+
+< [Back to Homepage](../../..)
