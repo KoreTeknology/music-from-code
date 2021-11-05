@@ -1,3 +1,5 @@
+< [Back to Homepage](..)
+
 # Notes about Sonic Pi
 
 **Sonic Pi** is a free software, created by *Sam Aaron*. it was first intended to teach programming language at school and to give to any musicians the endless possibilities of coding your own setup, sequences and songs. You can read about **Sonic Pi** on its website, Github pages and other supports available on line. 
