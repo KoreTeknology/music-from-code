@@ -60,6 +60,7 @@ This section presents various personal audio projects, including full songs and 
 
 - [x] **GlassTone LP** | [**Details**](Production/LP_GlassTone.md) | [**Code**](Production/LP_GlassTone.md) | [**Audio**](Production/LP_GlassTone.md) (Genre: EDM, Year: 2020, Artist: Aktiv25, Label: KoreTeknology)
 - [x] **RollStep LP** | [**Details**](Production/LP_RollStep.md) | [**Code**](Production/LP_RollStep.md) | [**Audio**](Production/LP_RollStep.md) (Genre: EDM, Year: 2021, Artist: Aktiv25, Label: KoreTeknology)
+- [x] **SpiTribe LP** | [**Details**](Production/LP_SpiTribe.md) | [**Code**](Production/LP_SpiTribe.md) | [**Audio**](Production/LP_SpiTribe.md) (Genre: TRB, Year: 2021, Artist: Aktiv25, Label: KoreTeknology)
 
 ```diff 
 * All LP/EPs are part of my music production from 2021, LABEL: KTS, AUTHOR: AKTIV.25
