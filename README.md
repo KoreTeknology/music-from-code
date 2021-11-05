@@ -69,23 +69,32 @@ This section presents various personal audio projects, including full songs and 
 
 ## READY-TO-USE CUSTOM CODE DROPLETS
 
-```diff 
-INSTRUMENTS
-```
-| **Synth name** | Type | Release | Description |
-| :------------------- | :---: | :---: | :--- |
-| [**PPT_2200**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `SYNTH` | 30/10/2021 | Extended Prophetized Synth Mod |
-| [**RDD_1210**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `SYNTH` | 24/10/2021 | Experimental Sound Generator |
-| [**DRM_4500**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `DRUMS` | 24/10/2021 | Basic Drums Machine |
+### Instruments
+- [x] `SYNTH` [**PPT 2200**](Documentation/droplet_synth_ppt2200.rb) Extended Prophetized Synth Mod
+- [x] `SYNTH` [**RDD 1210**](Documentation/droplet_synth_ppt2200.rb) Experimental Sound Generator 
+- [x] `SYNTH` [**XRS 3000**](Documentation/droplet_synth_ppt2200.rb) Extended Sine Synth Mod
+
+### Drums
+- [x] `KIST ` [**DRM 5050**](Documentation/droplet_synth_ppt2200.rb) Extended Drum Machine Mod
+- [x] `SHOT ` [**LOK 8100**](Documentation/droplet_synth_ppt2200.rb) Single custom Kick 
+
+### Effects
+- [x] `REVB ` [**REV 5050**](Documentation/droplet_synth_ppt2200.rb) Reverb Mod
+- [x] `DLAY ` [**DLY 8100**](Documentation/droplet_synth_ppt2200.rb) Delay Mod
+- [x] `REVB ` [**DST 6000**](Documentation/droplet_synth_ppt2200.rb) Remote Disto
+- [x] `DLAY ` [**DLY 8100**](Documentation/droplet_synth_ppt2200.rb) Single custom Kick 
+
+### Audio In
+- [x] `MIC  ` [**IN  0100**](Documentation/droplet_synth_ppt2200.rb) Custom Input for Microphone
+- [x] `REC  ` [**REC 1000**](Documentation/droplet_synth_ppt2200.rb) Custom record setup
+
+### Master Out
+- [x] `ST  ` [**IN  0100**](Documentation/droplet_synth_ppt2200.rb) Custom Output
+- [x] `MN  ` [**REC 1000**](Documentation/droplet_synth_ppt2200.rb) Single Mono
 
 ```diff 
-EFFECTS
+Notes:
 ```
-| **Effect name** | Type | Release | Description |
-| :------------------- | :---: | :---: | :--- |
-| [**REV_100**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `FX` | 30/10/2021 | Remote Reverb |
-| [**DST_400**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) | `FX` | 24/10/2021 | Hard Disto |
-
 ---
 
 ## CUSTOM SYNTHETIZERS MADE WITH SUPERCOLLIDER
@@ -97,7 +106,7 @@ None at the moment (cant export!)
 
 ## ACKNOWLEDGEMENTS
 
-* This work is dedicated to all Sonic Pi users and Live-Coderz groups ;) members of the excellent [**In_threads Forum**](https://in-thread.sonic-pi.net/)
+* This work is dedicated to all Sonic Pi users and Live-Coderz ;) and members of the excellent [**In_threads Forum**](https://in-thread.sonic-pi.net/), a place to meet other international performers.
 * **I do  this work during my free time, so please, be patient about the next repository update** :)
 
 ## Author
