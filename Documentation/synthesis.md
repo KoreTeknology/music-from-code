@@ -1,3 +1,5 @@
+< [Back to Homepage](../../..)
+
 # Audio Synthesis
 
 Sonic Pi offers a large palette of included synthdef base models. Those include generators of various types (sin, square, tri, etc...) available for our creation. We are looking at building-elements or blocks.
@@ -66,3 +68,5 @@ play 60, amp: rrand(0.5, 1), rate: rrand(0.4, 2)
 ```ruby
 play 60, amp: (0.5, 1).choose, rate:(0.4, 2).choose
 ```
+
+< [Back to Homepage](../../..)
