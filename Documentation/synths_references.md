@@ -1,3 +1,5 @@
+< [Back to Homepage](../../..)
+
 # Synth Instruments References
 
 This page presents the included synthetizers...
@@ -93,3 +95,8 @@ This page presents the included synthetizers...
 use_synth :beep
 play 60
 ```
+
+
+---
+
+< [Back to Homepage](../../..)
