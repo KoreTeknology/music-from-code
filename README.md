@@ -12,13 +12,15 @@
 <img src="https://github.com/KoreTeknology/music-from-code/blob/main/Documentation/images/header_home_git_SPI.jpg" width="100%">
 
 [comment]: <> (This is a comment, it will not be included)
-The aim of this project is to learn, experiment and produce music from code. Simple as writing lines of commands and definitions for producing sounds and sequences? How ? **Using the excellent and educational tool [Sonic Pi Software](https://sonic-pi.net/) created by Sam Aaron!** This is a good oportunity to enter the world of live-coding and music production at the same time. Also, this tool was made with "Open Hardware" compatibility in mind, as it is intended to run on Raspberry Pi boards (i didn´t try yet).
+The aim of this project is to learn, experiment and produce music from code. Simple as writing lines of commands and definitions for producing sounds and sequences? How ? **Using the excellent and educational tool [Sonic Pi Software](https://sonic-pi.net/) created by Sam Aaron!** This is a good oportunity to enter the world of live-coding and music production at the same time. Also, this tool was made with "Open Hardware" compatibility in mind, as it is intended to run on Raspberry Pi boards (i didn´t try yet), Windows, Apple and Linux OS.
 
 There are several tools available to create sound using programming, but my attention was catched by the Sonic Pi, very intuitive ground, easy to teach and nice for sharing a lot of fun with friends! So after i started producing music with it, i also started to get a lot of notes about the language, the techniques and api documentation! This is why this page exists.
 
 ```diff 
 ! By Downloading these files packages, you are accepting the terms of the License CC BY NC SA 4.0 !
 ```
+
+> This repository is intended to be my own ressources and documentation. If you want to read and learn more about the official documentation, you can visit the Sonic Pi Website and its [tutorials](https://sonic-pi.net/tutorial.html). 
 
 ---
 
@@ -70,27 +72,29 @@ This section presents various personal audio projects, including full songs and 
 ## READY-TO-USE CUSTOM CODE DROPLETS
 
 ### Instruments
-- [x] `SYNTH` [**PPT 2200**](Documentation/droplet_synth_ppt2200.rb) Extended Prophetized Synth Mod
-- [x] `SYNTH` [**RDD 1210**](Documentation/droplet_synth_ppt2200.rb) Experimental Sound Generator 
-- [x] `SYNTH` [**XRS 3000**](Documentation/droplet_synth_ppt2200.rb) Extended Sine Synth Mod
+- [x] `SYNTH` [**PPT 2200**](Documentation/Code%20Droplets/droplet_synth_ppt2200.rb) Extended Prophetized Synth Mod
+- [x] `SYNTH` [**RDD 1210**](Documentation/Code%20Droplets/droplet_synth_rdd1210.rb) Experimental Sound Generator 
+- [x] `SYNTH` [**XRS 3000**](Documentation/Code%20Droplets/droplet_synth_xrs3000.rb) Extended Sine Synth Mod
+
+https://github.com/KoreTeknology/music-from-code/blob/main/Documentation/Code%20Droplets/droplet_synth_ppt2200.rb
 
 ### Drums
-- [x] `KIST ` [**DRM 5050**](Documentation/droplet_synth_ppt2200.rb) Extended Drum Machine Mod
-- [x] `SHOT ` [**LOK 8100**](Documentation/droplet_synth_ppt2200.rb) Single custom Kick 
+- [x] `KIST ` [**DRM 5050**](Documentation/Code%20Droplets/droplet_drums_drm5050.rb) Extended Drum Machine Mod
+- [x] `SHOT ` [**LOK 8100**](Documentation/Code%20Droplets/droplet_drums_lok8100.rb) Single custom Kick 
 
 ### Effects
-- [x] `REVB ` [**REV 5050**](Documentation/droplet_synth_ppt2200.rb) Reverb Mod
-- [x] `DLAY ` [**DLY 8100**](Documentation/droplet_synth_ppt2200.rb) Delay Mod
-- [x] `REVB ` [**DST 6000**](Documentation/droplet_synth_ppt2200.rb) Remote Disto
-- [x] `DLAY ` [**DLY 8100**](Documentation/droplet_synth_ppt2200.rb) Single custom Kick 
+- [x] `REVB ` [**REV 5040**](Documentation/Code%20Droplets/droplet_fx_rev5040.rb) Reverb Mod
+- [x] `DLAY ` [**DLY 8000**](Documentation/Code%20Droplets/droplet_fx_dly8000.rb) Delay Mod
+- [x] `REVB ` [**DST 6000**](Documentation/Code%20Droplets/droplet_fx_dst6000.rb) Remote Disto Mod
+- [x] `DLAY ` [**DLY 8100**](Documentation/Code%20Droplets/droplet_fx_dly8100.rb) Advanced Delay Mod 
 
 ### Audio In
-- [x] `MIC  ` [**IN  0100**](Documentation/droplet_synth_ppt2200.rb) Custom Input for Microphone
-- [x] `REC  ` [**REC 1000**](Documentation/droplet_synth_ppt2200.rb) Custom record setup
+- [x] `MIC  ` [**IN  0100**](Documentation/Code%20Droplets/droplet_in_in0100.rb) Custom Input for Microphone
+- [x] `REC  ` [**REC 1000**](Documentation/Code%20Droplets/droplet_in_rec1000.rb) Custom record setup
 
 ### Master Out
-- [x] `ST  ` [**IN  0100**](Documentation/droplet_synth_ppt2200.rb) Custom Output
-- [x] `MN  ` [**REC 1000**](Documentation/droplet_synth_ppt2200.rb) Single Mono
+- [x] `ST  ` [**ST  4000**](Documentation/Code%20Droplets/droplet_out_st4000.rb) Custom Outputs
+- [x] `MN  ` [**MN 1000**](Documentation/Code%20Droplets/droplet_out_mn1000.rb) Single Mono Output
 
 ```diff 
 Notes:
