@@ -1,10 +1,7 @@
 # SpiTribe LP (2021)
+This LP is focused on a special type of rythm, a mix between binary and ternary beats, used in techno music to archieve a breaking beat on 12 times (3x4 and 4x3). Also i am using here some type of integrated synths as you can load the file in sonic pi and listen to the entire song, without downloading more samples. ;) Enjoy!
 
-to move somewhere..
-
-[Listen to it](Audio_files/spi25_audio.mp3)
-
-<a href="Audio_files/spi25_audio.mp3">Listen to it</a>
+[Download to listen](Audio_files/spi25_audio.mp3)
 
 ```ruby
 # "JUST HIT AND RUN"
@@ -28,18 +25,30 @@ pattern_bd3 =  "9---8-----258-4-".ring
 pattern_hh =  "--2--12---1---1".ring
 # TERNARY BEAT
 pattern_hd =  "9--8--8--9--".ring
-pattern_sn =  "7-----2-----".ring
+pattern_sn =  "5-----2-----".ring
 # COMBOS
 patterns = [pattern_bd1, pattern_bd2].choose
 
 # ----------------------------------------------------------------------------------
 # MIXER
-drone_amp = 0
-glitch_amp = 1
+drone_amp = 0.2
+glitch_amp = 0.4
 # FX Params
 kickDisto_mix = 0.2
-hoover_amp = 0.4
+hoover_amp = 0.6
 zawa_amp = 0.2
+
+# MUTE CHANNELS
+bd_mute = 0
+kickDisto_mute = 0
+snares_mute = 0
+hh_mute = 0
+
+drone_mute = 0
+glitch_mute = 1
+hoover_mute = 1
+zawa_mute = 0
+
 # ----------------------------------------------------------------------------------
 # DrumKit Samples
 bd = :bd_haus
@@ -56,18 +65,18 @@ with_fx :distortion, mix: kickDisto_mix do
     2.times do
       3.times do
         pattern_bd1.length.times do
-          sample :bd_haus, rate: 0.3 ,  amp: (pattern_bd1[look].to_f / 9) if (pattern_bd1[tick] != "-")
+          sample :bd_haus, on: bd_mute, rate: 0.3 ,  amp: (pattern_bd1[look].to_f / 9) if (pattern_bd1[tick] != "-")
           sleep 4/pattern_bd1.length.to_f
         end
       end
       tick_reset
       pattern_bd2.length.times do
-        sample :bd_haus, rate: 0.3 ,  amp: (pattern_bd2[look].to_f / 9) if (pattern_bd2[tick] != "-")
+        sample :bd_haus, on: bd_mute, rate: 0.3 ,  amp: (pattern_bd2[look].to_f / 9) if (pattern_bd2[tick] != "-")
         sleep 4/pattern_bd2.length.to_f
       end
       tick_reset
       pattern_bd3.length.times do
-        sample :bd_haus, rate: 0.3 ,  amp: (pattern_bd3[look].to_f / 9) if (pattern_bd3[tick] != "-")
+        sample :bd_haus, on: bd_mute, rate: 0.3 ,  amp: (pattern_bd3[look].to_f / 9) if (pattern_bd3[tick] != "-")
         sleep 4/pattern_bd3.length.to_f
       end
       tick_reset
@@ -80,7 +89,7 @@ uncomment do
     live_loop :HARDDRUMS do
       use_bpm bpm
       pattern_hd.length.times do
-        sample :bd_fat, amp: (pattern_hd[look].to_f / 9) if (pattern_hd[tick] != "-")
+        sample :bd_fat, on: kickDisto_mute, amp: (pattern_hd[look].to_f / 9) if (pattern_hd[tick] != "-")
         sleep 3/pattern_hd.length.to_f
       end
       tick_reset
@@ -94,7 +103,7 @@ uncomment do
       live_loop :SNARES do
         use_bpm bpm
         pattern_sn.length.times do
-          sample :sn_dolf, cutoff: 130, pan: rrand(-0.2, 0.5), amp: (pattern_sn[look].to_f / 9) if (pattern_sn[tick] != "-")
+          sample :sn_dolf, on: snares_mute, cutoff: 130, pan: rrand(-0.2, 0.5), amp: (pattern_sn[look].to_f / 9) if (pattern_sn[tick] != "-")
           sleep 6/pattern_sn.length.to_f
         end
         tick_reset
@@ -107,7 +116,7 @@ uncomment do
   live_loop :HIHATS do
     use_bpm bpm
     pattern_hh.length.times do
-      sample :drum_cymbal_closed, pan: rrand(-0.4, 0.2), rate: 0.3, amp: (pattern_hh[look].to_f / 9) if (pattern_hh[tick] != "-")
+      sample :drum_cymbal_closed, on: hh_mute, pan: rrand(-0.4, 0.2), rate: 0.3, amp: (pattern_hh[look].to_f / 9) if (pattern_hh[tick] != "-")
       sleep 8/pattern_hh.length.to_f
     end
     tick_reset
@@ -118,7 +127,7 @@ end
 uncomment do
   live_loop :DRONE do
     use_bpm bpm
-    sample :ambi_drone, rate: [0.5, 1, 1.5].choose, amp: drone_amp, slice: 3, release: 1
+    sample :ambi_drone, on: drone_mute, rate: [0.7, 1, 1.5].choose, amp: drone_amp, slice: 3, release: 1
     sleep 1
     sample :ambi_lunar_land, amp: drone_amp
     sleep 1.5
@@ -128,7 +137,7 @@ end
 uncomment do
   live_loop :GLITCH do
     use_bpm bpm
-    sample :glitch_perc1, rate: [0.1, 0.3, 0.5].choose, amp: glitch_amp
+    sample :glitch_perc1, on: glitch_mute, rate: [0.1, 0.3, 0.5].choose, amp: glitch_amp
     sleep 3
   end
 end
@@ -138,7 +147,7 @@ uncomment do
   live_loop :exp do
     use_bpm bpm
     use_synth :zawa
-    play 60, amp: zawa_amp, release: rrand(0.5, 4), note: rrand(50,80), release: rrand(2,8), slide: 2
+    play 60, amp: zawa_amp, on: zawa_mute, release: rrand(0.5, 4), note: rrand(50,80), release: rrand(2,8), slide: 2
     sleep 1.5
   end
 end
@@ -147,10 +156,13 @@ uncomment do
   live_loop :decal do
     use_bpm bpm
     use_synth :hoover
-    play [55, 40, 25, 50].choose, amp: hoover_amp, release: 0.5
+    play [55, 40, 25, 50].choose, amp: hoover_amp, release: 0.3, on: hoover_mute
     sleep 0.5
   end
 end
+
+# ----------------------------------------------------------------------------------
+
 
 # ----------------------------------------------------------------------------------
 
