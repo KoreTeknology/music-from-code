@@ -76,8 +76,6 @@ This section presents various personal audio projects, including full songs and 
 - [x] `SYNTH` [**RDD 1210**](Documentation/Code%20Droplets/droplet_synth_rdd1210.rb) Experimental Sound Generator 
 - [x] `SYNTH` [**XRS 3000**](Documentation/Code%20Droplets/droplet_synth_xrs3000.rb) Extended Sine Synth Mod
 
-https://github.com/KoreTeknology/music-from-code/blob/main/Documentation/Code%20Droplets/droplet_synth_ppt2200.rb
-
 ### Drums
 - [x] `KIST ` [**DRM 5050**](Documentation/Code%20Droplets/droplet_drums_drm5050.rb) Extended Drum Machine Mod
 - [x] `SHOT ` [**LOK 8100**](Documentation/Code%20Droplets/droplet_drums_lok8100.rb) Single custom Kick 
