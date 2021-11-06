@@ -1,7 +1,9 @@
-# SpiTribe LP (2021)
-This LP is focused on a special type of rythm, a mix between binary and ternary beats, used in techno music to archieve a breaking beat on 12 times (3x4 and 4x3). Also i am using here some type of integrated synths as you can load the file in sonic pi and listen to the entire song, without downloading more samples. ;) Enjoy!
+# SpiTribe (2021)
+This EP is focused on a special type of rythm, a mix between binary and ternary beats, used in techno music to archieve a breaking beat on 12 times (3x4 and 4x3). Also i am using here some type of integrated synths as you can load the file in sonic pi and listen to the entire song, without downloading more samples. ;) Enjoy!
 
 [Download to listen](Audio_files/spi25_audio.mp3)
+
+Here is the complete code (download and open in sonic Pi):
 
 ```ruby
 # "JUST HIT AND RUN"
