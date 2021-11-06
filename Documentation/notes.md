@@ -1,7 +1,6 @@
 < [Back to Homepage](../../..)
 
-# Notes
-
+# Understanding Notes and Partitions
 
 ### Writing Notes
 
