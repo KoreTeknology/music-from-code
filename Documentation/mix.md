@@ -56,3 +56,9 @@ set :foo, 12
 
 get [:foo]
 ```
+
+
+and
+```ruby
+run_file "/path/to/buffer.rb"
+```
