@@ -10,6 +10,7 @@ This page presents the included synthetizers...
 | :------------------- | :---: | :---: | :--- |
 | `amp` | 0-1 | | used to set the volume/gain |
 | `pan` | -1-1 | | used to set the panoramic |
+| `on` | 0-1 | | used to switch or mute |
 
 ## Enveloppe parameters to ALL Synthetizers
 
@@ -31,7 +32,7 @@ This page presents the included synthetizers...
 ## Available Synthetizers, classified by type
 
 ### Basic generators
-- [x] [**-**](Documentation/synth_blade.md)  no named, just the default Spi synth
+- [x] [**   **](Documentation/synth_blade.md)  no named, just the default Spi synth
 - [x] [**Beep**](Documentation/synth_beep.md), typed sine wave
 - [x] [**Fm**](Documentation/synth_blade.md), string base type
 - [x] [**Sine**](Documentation/synth_beep.md), typed sine wave
