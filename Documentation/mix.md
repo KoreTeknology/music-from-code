@@ -49,14 +49,22 @@ end
 
 ### Buffers
 
+Sonic Pi gots various buffers available, they are identified as "tabs" from 0 to 9. We can work using more than one buffer at the same time, and also send and receive data between buffers. Here are some exemples:
+
 ```ruby
-set :foo, 12
+#put in buffer o and run
+notes=[:c4,:e4,:g4,:c5]
+set :notes,notes
 
-...
-
-get [:foo]
+#put in buffer 1 and run (without stopping buffer 0)
+live_loop :test do
+  notes=get(:notes)
+  play notes.tick
+  sleep 1
+end
 ```
 
+Also, it is good to know, to avoid buffer limitations, to load a file into buffers:
 
 and
 ```ruby
