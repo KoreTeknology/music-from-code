@@ -101,8 +101,10 @@ Notes:
 
 ## CUSTOM SYNTHETIZERS MADE WITH SUPERCOLLIDER
 
+We can create new synth in a shape of synthdefs from supercollider, we will lokk at how to build them and how to use them in sonic Pi.
+Here is [**Temporary documentation**](Custom%20Synths/test%20synths/customsynths.md)
 ```diff 
-None at the moment (cant export!)
+None at the moment
 ```
 ---
 
