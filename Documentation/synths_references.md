@@ -32,62 +32,62 @@ This page presents the included synthetizers...
 ## Available Synthetizers, classified by type
 
 ### Basic generators
-- [x] [**   **](Documentation/synth_blade.md)  no named, just the default Spi synth
-- [x] [**Beep**](Documentation/synth_beep.md), typed sine wave
-- [x] [**Fm**](Documentation/synth_blade.md), string base type
-- [x] [**Sine**](Documentation/synth_beep.md), typed sine wave
-- [x] [**Saw**](Documentation/synth_blade.md), string base type
-- [x] [**Super Saw**](Documentation/synth_blade.md), string base type
-- [x] [**Pulse**](Documentation/synth_beep.md), typed sine wave
-- [x] [**Sub Pulse**](Documentation/synth_beep.md), typed sine wave
-- [x] [**Square**](Documentation/synth_blade.md), string base type
-- [x] [**Tri**](Documentation/synth_blade.md), string base type
+- [x] [**   **](synth_basic.md)  no named, just the default Spi synth
+- [x] [**Beep**](synth_beep.md), typed sine wave
+- [x] [**Fm**](synth_fm.md), string base type
+- [x] [**Sine**](Documentation/synth_sine.md), typed sine wave
+- [x] [**Saw**](Documentation/synth_saw.md), string base type
+- [x] [**Super Saw**](Documentation/synth_supersaw.md), string base type
+- [x] [**Pulse**](Documentation/synth_pulse.md), typed sine wave
+- [x] [**Sub Pulse**](Documentation/synth_subpulse.md), typed sine wave
+- [x] [**Square**](Documentation/synth_square.md), string base type
+- [x] [**Tri**](Documentation/synth_tri.md), string base type
 
 
 ### Detuned generators
-- [x] [**Dpulse**](Documentation/synth_beep.md), sharing formats and exporting
-- [x] [**Dsaw**](Documentation/synth_blade.md), keyboards and controls
-- [x] [**Dtri**](Documentation/synth_blade.md), keyboards and controls
+- [x] [**Dpulse**](Documentation/synth_dpulse.md), sharing formats and exporting
+- [x] [**Dsaw**](Documentation/synth_dsaw.md), keyboards and controls
+- [x] [**Dtri**](Documentation/synth_dtri.md), keyboards and controls
 
 ### Acoustic instruments generators
-- [x] [**Piano**](Documentation/synth_blade.md), keyboards and controls
+- [x] [**Piano**](Documentation/synth_piano.md), keyboards and controls
 - [x] [**Blade**](Documentation/synth_blade.md), string base type
-- [x] [**Duli Bell**](Documentation/synth_blade.md), bell base type
-- [x] [**Pluck**](Documentation/synth_blade.md), guitar base type
-- [x] [**Kalimba**](Documentation/synth_blade.md), string base type
+- [x] [**Duli Bell**](Documentation/synth_dulibell.md), bell base type
+- [x] [**Pluck**](Documentation/synth_pluck.md), guitar base type
+- [x] [**Kalimba**](Documentation/synth_kalimba.md), string base type
 
 ### Noise generators
-- [x] [**Noise**](Documentation/synth_blade.md), keyboards and controls
-- [x] [**B Noise**](Documentation/synth_blade.md), string base type
-- [x] [**C Noise**](Documentation/synth_blade.md), string base type
-- [x] [**G Noise**](Documentation/synth_blade.md), string base type
-- [x] [**P Noise**](Documentation/synth_blade.md), string base type
+- [x] [**Noise**](Documentation/synth_noise.md), keyboards and controls
+- [x] [**B Noise**](Documentation/synth_bnoise.md), string base type
+- [x] [**C Noise**](Documentation/synth_cnoise.md), string base type
+- [x] [**G Noise**](Documentation/synth_gnoise.md), string base type
+- [x] [**P Noise**](Documentation/synth_pnoise.md), string base type
 
 ### Modulated generators
-- [x] [**Mod Beep**](Documentation/synth_blade.md), keyboards and controls
-- [x] [**Mod Dsaw**](Documentation/synth_blade.md), string base type
-- [x] [**Mod Fm**](Documentation/synth_blade.md), string base type
-- [x] [**Mod Pulse**](Documentation/synth_blade.md), string base type
-- [x] [**Mod Saw**](Documentation/synth_blade.md), string base type
-- [x] [**Mod Sine**](Documentation/synth_blade.md), string base type
-- [x] [**Mod Tri**](Documentation/synth_blade.md), string base type
+- [x] [**Mod Beep**](Documentation/synth_modbeep.md), keyboards and controls
+- [x] [**Mod Dsaw**](Documentation/synth_moddsaw.md), string base type
+- [x] [**Mod Fm**](Documentation/synth_modfm.md), string base type
+- [x] [**Mod Pulse**](Documentation/synth_modpulse.md), string base type
+- [x] [**Mod Saw**](Documentation/synth_modsaw.md), string base type
+- [x] [**Mod Sine**](Documentation/synth_modsine.md), string base type
+- [x] [**Mod Tri**](Documentation/synth_modtri.md), string base type
 
 ### Cheap tunes generators
-- [x] [**Chipbass**](Documentation/synth_blade.md), keyboards and controls
-- [x] [**Chiplead**](Documentation/synth_blade.md), string base type
-- [x] [**Chipnoise**](Documentation/synth_blade.md), string base type
+- [x] [**Chipbass**](Documentation/synth_chipbass.md), keyboards and controls
+- [x] [**Chiplead**](Documentation/synth_chiplead.md), string base type
+- [x] [**Chipnoise**](Documentation/synth_chipnoise.md), string base type
 
 ### Special generators
-- [x] [**Dark Ambiance**](Documentation/synth_blade.md), keyboards and controls
-- [x] [**Growl**](Documentation/synth_blade.md), string base type
-- [x] [**Hollow**](Documentation/synth_blade.md), string base type
-- [x] [**Hoover**](Documentation/synth_blade.md), string base type
-- [x] [**Pretty Bell**](Documentation/synth_blade.md), string base type
-- [x] [**Prophet**](Documentation/synth_blade.md), string base type
-- [x] [**Rodeo**](Documentation/synth_blade.md), string base type
-- [x] [**Tb303**](Documentation/synth_blade.md), string base type
-- [x] [**Tech Saws**](Documentation/synth_blade.md), string base type
-- [x] [**Zawa**](Documentation/synth_blade.md), string base type
+- [x] [**Dark Ambiance**](Documentation/synth_darkambiance.md), keyboards and controls
+- [x] [**Growl**](Documentation/synth_growl.md), string base type
+- [x] [**Hollow**](Documentation/synth_hollow.md), string base type
+- [x] [**Hoover**](Documentation/synth_hoover.md), string base type
+- [x] [**Pretty Bell**](Documentation/synth_prettybell.md), string base type
+- [x] [**Prophet**](Documentation/synth_prophet.md), string base type
+- [x] [**Rodeo**](Documentation/synth_rodeo.md), string base type
+- [x] [**Tb303**](Documentation/synth_tb303.md), string base type
+- [x] [**Tech Saws**](Documentation/synth_techsaw.md), string base type
+- [x] [**Zawa**](Documentation/synth_zawa.md), string base type
 
 ---
 
