@@ -45,3 +45,14 @@ live_loop :drm do
   
 end
 ```
+
+
+### Buffers
+
+```ruby
+set :foo, 12
+
+...
+
+get [:foo]
+```
