@@ -2,7 +2,32 @@
 
 ## Introduction to SuperCollider
 
+...
+install last release
+basic scheme and settings
+oscillators
+filters
+lfos
+
+variables
+params
+
+
 ## Exporting synthdefs
+
+After building our synth, we must export it as a file, we will use .writeDefFile()
+
+```
+(
+SynthDef(\piTest,
+         {|freq = 200, amp = 1, out_bus = 0 |
+           Out.ar(out_bus,
+			      //this is insane, no? using a simple Sine osc
+			      // Now, lets go for a kick generator :)
+                  SinOsc.ar([freq,freq],0,0.5)* Line.kr(1, 0, 5, amp, doneAction: 2))}
+).writeDefFile("/Users/.../SYNTHS/")
+)
+```
 
 ## Loading synths in Sonic Pi
 
