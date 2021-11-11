@@ -33,7 +33,7 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Understanding Notes and partitions**](Documentation/notes.md), keyboards and controls
 - [x] [**Creating sound from Audio Synthesis**](Documentation/synthesis.md), generators and modifiers
 - [x] [**Creating sound from Audio Samples files**](Documentation/samples.md), chopping loop and Live Sampling
-- [x] [**Creating Sequences, patterns and Loops**](Documentation/sequences.md), bpm and patterns
+- [x] [**Creating Sequences, patterns and Loops**](Documentation/sequences.md), bpm, sync and patterns
 - [x] [**Adding Enveloppe, filters and Effects**](Documentation/effects.md) Individuals and Master section
 
 ### Advanced music programming
