@@ -42,6 +42,7 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Mixing sounds and buffers**](Documentation/mix.md), generators and modifiers
 - [x] [**Doing Live Coding sessions**](Documentation/live.md), Basics and rules
 - [x] [**Building Personal libraries**](Documentation/libraries.md), Samples and code droplets
+- [x] [**Midi Control**](Documentation/midi.md), External control keyboard
 
 ### Hardcore music programming
 - [x] [**Setup and practices**](Documentation/practices.md), hardware and 
