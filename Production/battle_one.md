@@ -1,5 +1,7 @@
 # Battle ONE
 
+This is a very early test of battle creation, time: 5m10s, just a drum beat that can be manipulate!
+
 ```ruby
 use_sched_ahead_time 1
 #use_debug false
