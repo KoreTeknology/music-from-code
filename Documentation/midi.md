@@ -87,3 +87,10 @@ live_loop :drums do
   end
 end
 ```
+
+this one also is interesting : [here](https://in-thread.sonic-pi.net/t/sonic-pi-and-novation-launchpad/5457/2)
+
+```ruby
+# Midi in port for external controler
+midicontrol_in = "/midi:midiin2_(lpminimk3_midi)_1:1/*"
+```
