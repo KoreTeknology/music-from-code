@@ -69,4 +69,12 @@ play 60, amp: rrand(0.5, 1), rate: rrand(0.4, 2)
 play 60, amp: (0.5, 1).choose, rate:(0.4, 2).choose
 ```
 
+### Parameters in variables
+
+You can also set your synth parameters into a variable:
+```ruby
+#fast_envelope = {attack: 0, attack_level: 1, decay: 0, sustain_level: 1, sustain: 1, release: 0}
+#play 60, fast_envelope
+```
+
 < [Back to Homepage](../../..)
