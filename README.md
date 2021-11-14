@@ -29,8 +29,8 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Notes about Sonic Pi**](Documentation/about.md), codes source and softwares
 
 ### Basic knowledge
-- [x] [**Understanding Files and audio recording**](Documentation/recording.md), sharing formats and exporting
-- [x] [**Understanding Notes and partitions**](Documentation/notes.md), keyboards and controls
+- [x] [**Understanding Files and audio recording**](Documentation/recording.md), import/export files, sharing formats and recording output
+- [x] [**Understanding Notes and partitions**](Documentation/notes.md), keyboards and notation controls
 - [x] [**Creating sound from Audio Synthesis**](Documentation/synthesis.md), generators and modifiers
 - [x] [**Creating sound from Audio Samples files**](Documentation/samples.md), chopping loop and Live Sampling
 - [x] [**Creating Sequences, patterns and Loops**](Documentation/sequences.md), bpm, sync and patterns
