@@ -92,4 +92,52 @@ end
 
 ```
 
+### Yet another drumbeat
+
+```ruby
+use_bpm 140 
+#-----------------------------------------------------------------------------------------
+pattern_grid = "----------------".ring # 4/4 Beat Measure Structure
+define :silence do 4/pattern_grid.length.to_f end # 1/4 Beat Tempo
+#----------------<|   |   |   |   >-------<|   |   |   |   >-------<|   |   |   |   >-----
+p_myKick_seq =  ["9---7---8---7---".ring, "9---------------".ring, "9-4-----973-----".ring]
+p_mySnare_seq = ["--1-------1-----".ring, "--1---1-2-4-----".ring, "321-----321-1---".ring]
+p_myHihat_seq = ["1-1-1-1-1-1-1-1-".ring, "1---1-1-1-21--1-".ring, "--------132--1--".ring]
+#-----------------------------------------------------------------------------------------
+v = 0 # Init Beat Variants
+#-----------------------------------------------------------------------------------------
+define :myKick do  synth :sine, note: :C2, attack: 0.01, release: 0.3, cutoff: 120,
+    amp: ((p_myKick_seq[v])[look].to_f / 9) if ((p_myKick_seq[v])[tick] != "-") end
+define :mySnare do synth :bnoise, note: :C3, attack: 0.01, release: 0.8, cutoff: 90,
+    amp: ((p_mySnare_seq[v])[look].to_f / 9) if ((p_mySnare_seq[v])[tick] != "-") end
+define :myHihat do synth :noise, note: :C4, attack: 0.01, release: 0.05, cutoff: 130,
+    amp: ((p_myHihat_seq[v])[look].to_f / 9) if ((p_myHihat_seq[v])[tick] != "-") end
+#-----------------------------------------------------------------------------------------
+with_fx :compressor, clamp_time: 0.05, threshold: 0.5, relax_time: 0.3, mix: 0.2 do
+  with_fx :reverb, damp: 1, room: 1, mix: 0.2 do
+    with_fx :eq, low: 1.2, mid: 0.4, high: 0.8, mix: 0.8 do
+      #-----------------------------------------------------------------------------------------
+      live_loop :BEAT_KICK do
+        v = [0, 1, 2, 0/2, 1/2, 2/2].choose
+        myKick
+        sleep silence
+      end
+      #-----------------------------------------------------------------------------------------
+      live_loop :BEAT_SNARE do
+        v = [0, 1, 2, 0/2, 1/2, 2/2, 0/4, 1/4, 2/4].choose
+        mySnare
+        sleep silence
+      end
+      #-----------------------------------------------------------------------------------------
+      live_loop :BEAT_HIHAT do
+        v = [0, 1, 2].choose
+        myHihat
+        sleep silence
+      end
+    end
+  end
+end
+```
+
+
 < [Back to Homepage](../../..)
