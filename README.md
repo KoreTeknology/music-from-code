@@ -37,16 +37,16 @@ There are several tools available to create sound using programming, but my atte
 - [x] [**Adding Enveloppe, filters and Effects**](Documentation/effects.md) Individuals and Master section
 
 ### Advanced music programming
-- [x] [**Mathematics and Programming**](Documentation/math.md), Use of math principles
+- [x] [**Mathematics and Programming Algotythms**](Documentation/math.md), Use of math principles
 - [x] [**Writing Music Patterns and songs**](Documentation/songs.md), keyboards and controls
 - [x] [**Mixing sounds and buffers**](Documentation/mix.md), generators and modifiers
 - [x] [**Doing Live Coding sessions**](Documentation/live.md), Basics and rules
 - [x] [**Building Personal libraries**](Documentation/libraries.md), Samples and code droplets
-- [x] [**Midi Control**](Documentation/midi.md), External control keyboard
+- [x] [**External Midi Control**](Documentation/midi.md), input control keyboard and output devices
 
 ### Hardcore music programming
-- [x] [**Setup and practices**](Documentation/practices.md), hardware and 
-- [x] [**Live coding challenges**](Documentation/challenges.md), generators and modifiers
+- [x] [**Setup and practices**](Documentation/practices.md), hardwares on stage
+- [x] [**Live coding challenges**](Documentation/challenges.md), most efficient techniques
 
 ### References
 - [x] [**Sound generators and Envelope**](Documentation/synths_references.md), All generators with its details
